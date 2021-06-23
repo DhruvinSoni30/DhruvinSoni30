@@ -14,11 +14,11 @@
 
 - 🎓 I have pursued B.Tech in Information Technology from Charotar University of Science and Technology
 
-- My hobbies include playing cricket, watching mysterious movies & exploring new places
+- 🏏 My hobbies include playing cricket, watching mysterious movies & exploring new places
 
-- Constantly learning because "Never stop learning because life never stops teaching"
+- 📈 Constantly learning because "Never stop learning because life never stops teaching"
 
-- Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
+- 💻 Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
 
 <hr>
 <p align="center">
