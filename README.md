@@ -1,4 +1,4 @@
-- 👋 Hi, My self Dhruvin Soni
+- 👋 Hi there! I am Dhruvin Soni
 
 - 💻 Currently, I am working as a CloudOps Engineer at Crest Data Systems since last 2 years.
 
@@ -23,6 +23,7 @@
 
 - Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
 
+- My hobbies include playing cricket, watching mysterious movies & exploring new places.
+
 - Constantly learning because "Never stop learning because life never stops teaching"
 
-- My hobbies include playing cricket, watching mysterious movies & exploring new places.
