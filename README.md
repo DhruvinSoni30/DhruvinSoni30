@@ -18,7 +18,11 @@
 
 - 📈 Constantly learning because "Never stop learning because life never stops teaching"
 
+- 📑 You can also read my blogs at:- https://dhruvin45.medium.com/
+
 - 💻 Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
+
+- 😌 Currently I am focused to "Learn new technologies and improving my skill stets"
 
 <hr>
 <p align="center">
