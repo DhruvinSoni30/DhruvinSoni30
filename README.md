@@ -2,14 +2,14 @@
 
 - 💻 Currently, I am working as a CloudOps Engineer at Crest Data Systems since last 2 years.
 
-- 👌 I also have hands-on experience with the automation tools like Terraform, Ansible, Docker, Kubernetes, Jenkins & many more
+- 👌 I also have hands-on experience with the automation tools like Terraform, Ansible, Docker, Kubernetes, Jenkins & many more.
 
 - ✅ Addtionally I have also completed below certification
 
   - AWS:- Solution Architect
   - AWS:- Cloud Practitioner
-  - ORACLE:- Cloud infrastructure foundation associate
-  - Terraform associate certified
+  - ORACLE:- Cloud Infrastructure Foundation Associate
+  - Terraform Associate Certified
 
 - 🎓 I have pursued B.Tech in Information Technology from Charotar University of Science and Technology.
 
