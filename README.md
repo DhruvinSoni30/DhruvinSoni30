@@ -19,3 +19,4 @@ Gmail:- https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=workfordhr
 Contact Number:- (+91) 9099455523
 
 - You can also read my blogs at:- https://dhruvin45.medium.com/
+- Read more about me at:- dhruvinsoni.tech
