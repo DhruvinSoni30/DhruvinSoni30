@@ -10,7 +10,7 @@
 
   - ORACLE:- [Cloud Infrastructure Foundation Associate](https://drive.google.com/file/d/1gqKZ71T06pPUHHnkgNa9EfrUgI5covZ6/view?usp=sharing)
 
-  - [Terraform Associate Certified](https://drive.google.com/file/d/1JD41pZeyQ39n0TWZ7Z5dSzwt3Ll3UM7_/view?usp=sharing)
+  - HASHICORP:- [Terraform Associate Certified](https://drive.google.com/file/d/1JD41pZeyQ39n0TWZ7Z5dSzwt3Ll3UM7_/view?usp=sharing)
 
 - 🎓 I have pursued B.Tech in Information Technology from Charotar University of Science and Technology
 
