@@ -20,5 +20,18 @@
 
 - Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
 
+<hr>
+<p align="center">
+  <i>Let's connect</i>
+<p align="center">
+    <a href="https://twitter.com/dhruvinsoni30" alt="Twitter"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/dhruvinksoni/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin.png"></a>
+    <a href="https://www.instagram.com/dhruvin.4530/" alt="Instagram"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/insta.png"></a>
+    <a href="https://www.facebook.com/dhruvin.soni.75/" alt="Facebook"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/facebook.png"></a>
+    <a href="https://github.com/DhruvinSoni30" alt="GitHub"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/github.png"></a>
+    <a href="https://medium.com/@dhruvin45" alt="Medium"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/medium.png"></a>
+</p>
+  
+</p>
 
 
