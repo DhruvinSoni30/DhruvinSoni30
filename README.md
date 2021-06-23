@@ -37,5 +37,5 @@
 </p>
   
 </p>
-![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvinSoni30&show_icons=true)
+[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruvinSoni30&show_icons=true)
 
