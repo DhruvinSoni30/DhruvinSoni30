@@ -24,6 +24,8 @@
 
 - 😌 Currently I am focused to "Learn new technologies and improving my skill stets"
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvinSoni30&show_icons=true)
+
 <hr>
 <p align="center">
   <i>Let's connect</i>
@@ -39,7 +41,7 @@
 </p>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvinSoni30&show_icons=true)
+
 
 
 
