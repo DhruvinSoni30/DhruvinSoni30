@@ -24,7 +24,7 @@
 
 - 💻 Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
 
-- 😌 Currently I am focused to "Learn new technologies and improving my skill stets"
+- 😌 Currently I am focused to "Learn new technologies and improving my skill set"
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=DhruvinSoni30&show_icons=true) 
 
