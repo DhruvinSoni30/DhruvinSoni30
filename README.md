@@ -20,7 +20,7 @@
 
 - 📈 Constantly learning because "Never stop learning because life never stops teaching"
 
-- 📑 You can also read my blogs at:- https://dhruvin45.medium.com/
+- 📑 You can also read my articles at:- http://dhsoniblogs.ml
 
 - 💻 Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
 
