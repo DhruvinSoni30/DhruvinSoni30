@@ -10,6 +10,8 @@
   - ORACLE:- [Cloud Infrastructure Foundation Associate](https://drive.google.com/file/d/1gqKZ71T06pPUHHnkgNa9EfrUgI5covZ6/view?usp=sharing)
 
   - HASHICORP:- [Terraform Associate Certified](https://drive.google.com/file/d/1JD41pZeyQ39n0TWZ7Z5dSzwt3Ll3UM7_/view?usp=sharing)
+
+  - Kubernetes:- [Certified Kubernetes Administrator](https://drive.google.com/file/d/1JAtCWFOl5CYcTthqaMOcoSW2b9t2BixF/view?usp=sharing)
   
 <br>
 
