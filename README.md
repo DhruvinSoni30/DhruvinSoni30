@@ -7,9 +7,9 @@
 
    - AWS:- [Solution Architect](https://drive.google.com/file/d/1AaCJ-p1tVeyGIqJHsOra04Q5v9dukhNg/view?usp=sharing), [Cloud Practitioner](https://drive.google.com/file/d/1qA76FJ57ZBJ_RCURuW-w1g7HCx3DiHAk/view?usp=sharing)
 
-  - ORACLE:- [Cloud Infrastructure Foundation Associate](https://drive.google.com/file/d/1gqKZ71T06pPUHHnkgNa9EfrUgI5covZ6/view?usp=sharing)
+  - Oracle:- [Cloud Infrastructure Foundation Associate](https://drive.google.com/file/d/1gqKZ71T06pPUHHnkgNa9EfrUgI5covZ6/view?usp=sharing)
 
-  - HASHICORP:- [Terraform Associate Certified](https://drive.google.com/file/d/1JD41pZeyQ39n0TWZ7Z5dSzwt3Ll3UM7_/view?usp=sharing)
+  - Hashicorp:- [Terraform Associate Certified](https://drive.google.com/file/d/1JD41pZeyQ39n0TWZ7Z5dSzwt3Ll3UM7_/view?usp=sharing)
 
   - Kubernetes:- [Certified Kubernetes Administrator](https://drive.google.com/file/d/1JAtCWFOl5CYcTthqaMOcoSW2b9t2BixF/view?usp=sharing)
   
