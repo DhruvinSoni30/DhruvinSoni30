@@ -23,7 +23,7 @@
 
 - 📑 You can also read my articles at:- http://dhsoniblogs.ml
 
-- 💻 Find more about me at:- [dhruvinsoni.tech](https://dhruvinsoni.s3.ap-south-1.amazonaws.com/index.html)
+- 💻 Find more about me at:- [dhsoni.info](http:dhsoni.info)
 
 - 😌 Currently I am focused to "Learn new technologies and improving my skill set"
 
