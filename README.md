@@ -21,7 +21,7 @@
 
 - 📈 Constantly learning because "Never stop learning because life never stops teaching"
 
-- 📑 You can also read my articles at:- http://dhsoniblogs.ml
+- 📑 You can also read my articles at:- https://medium.com/@dksoni4530
 
 - 💻 Find more about me at:- [dhsoni.info](http:dhsoni.info)
 
